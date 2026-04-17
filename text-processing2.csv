@@ -1,0 +1,21 @@
+ID,Text,Label
+1,User logged in successfully from known device,0
+2,Employee accessed internal system during working hours,0
+3,File uploaded to company server by authorized user,0
+4,Regular backup completed without errors,0
+5,User browsed company website and logged out,0
+6,Email sent to colleague with project update,0
+7,System update installed successfully,0
+8,User downloaded approved software from internal portal,0
+9,Login session ended normally after inactivity,0
+10,Authorized user accessed database for reporting,0
+11,Multiple failed login attempts from unknown IP address,1
+12,User clicked suspicious email link requesting credentials,1
+13,Malware detected in downloaded file from external source,1
+14,Unusual traffic spike indicating possible DDoS attack,1
+15,System infected with ransomware encrypting files,1
+16,Unauthorized access attempt using password guessing,1
+17,Email attachment contained malicious script,1
+18,Network flooding caused service disruption,1
+19,Fake login page captured user credentials,1
+20,Suspicious file download flagged by security system,1

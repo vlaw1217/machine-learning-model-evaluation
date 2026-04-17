@@ -1,0 +1,29 @@
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace settings
+.vscode/
+
+# Large/generated model files
+*.pkl
+*.joblib
+
+# Optional: ignore output/export files
+*.log
